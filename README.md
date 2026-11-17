@@ -155,5 +155,7 @@ Busca pela chave 99: NÃO encontrada.
 ## 👤 Autores
 
 **Juliano Gregório**
+
 **Viviane Tamíris**
+
 Desenvolvido como atividade prática da disciplina de **Estrutura de Dados** (IFSULDEMINAS — Campus Machado, 2026).
